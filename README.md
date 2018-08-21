@@ -4,9 +4,9 @@
 
 The python script supervisord is a powerful tool used by a lot of guys to manage the processes. I like the tool supervisord also.
 
-But this tool requires us to install the big python environment. In some situation, for example in the docker environment, the python is too big for us.
+But this tool requires us to install the big python environment. In some situation, for example in the docker environment, the python is small big for us.
 
-In this project, the supervisord is re-implemented in go-lang. The compiled supervisord is very suitable for these environment that the python is not installed.
+In this project, the supervisord is re-implemented in go-lang. The compiled supervisord is very suitable for these environment in which the python is not installed.
 
 # Compile the supervisord
 
